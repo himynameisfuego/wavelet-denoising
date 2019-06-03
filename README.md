@@ -9,6 +9,7 @@ Execute SpeechEnhancement.m. You will need to manually change the audio path ins
 To iterate the algorithm:
 1) Execute all code once;
 2) Repeat sections in the following order:
-	A) PSD estimation w/ Multitapers
-	B) DWT + Thresholding + Wiener Filter
-	C) Reconstruction and results
+
+A) PSD estimation w/ Multitapers
+B) DWT + Thresholding + Wiener Filter
+C) Reconstruction and results
